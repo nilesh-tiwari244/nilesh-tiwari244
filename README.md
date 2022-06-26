@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nilesh-tiwari244
+- 👋 Hi, I’m Nilesh Kumar Tiwari
 - 👀 I’m interested in Back end devolpment
 - 🌱 I’m currently learning React Native and JavaScript
 - 📫 You can reach me at: nileshtiwari2441996@gmail.com
