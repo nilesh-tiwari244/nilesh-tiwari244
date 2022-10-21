@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nilesh Kumar Tiwari
-- 👀 I’m interested in Back end devolpment
-- 🌱 I’m currently learning React Native and JavaScript
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning NodeJs
 - 📫 You can reach me at: nileshtiwari2441996@gmail.com
 
 <!---
