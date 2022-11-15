@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nilesh Kumar Tiwari
-- 👀 I’m interested in web development
 - 🌱 I’m currently learning NodeJs
 - 📫 You can reach me at: nileshtiwari2441996@gmail.com
 
