@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nilesh Kumar Tiwari
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning MongoDB and mongoose
 - 📫 You can reach me at: nileshtiwari2441996@gmail.com
 
 <!---
